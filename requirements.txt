@@ -5,3 +5,4 @@ Pillow
 numpy
 streamlit
 yolov5
+pydicom
