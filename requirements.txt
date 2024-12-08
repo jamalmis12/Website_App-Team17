@@ -1,0 +1,7 @@
+streamlit
+torch
+Pillow
+numpy
+opencv-python-headless
+yolov5
+pydicom
