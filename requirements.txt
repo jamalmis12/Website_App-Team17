@@ -1,7 +1,7 @@
-streamlit
+opencv-python
+opencv-contrib-python
 torch
 Pillow
 numpy
-opencv-python-headless
+streamlit
 yolov5
-pydicom
